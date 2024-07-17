@@ -1,6 +1,6 @@
 # Challenge-IA-Generativa
-#El proceso:
-Hemos discutido sobre la creación de contenido para una página web enfocada en segundas víctimas en el ámbito de la salud. Comenzamos analizando diferentes recursos y páginas web, buscando inspiración en cómo abordar este tema de manera efectiva y comprensiva:
+# El proceso
+Discutí con Chat GPT 3.5 sobre la creación de contenido para una página web enfocada en segundas víctimas en el ámbito de la salud. Comenzamos analizando diferentes recursos y páginas web, buscando inspiración en cómo abordar este tema de manera efectiva y comprensiva:
 
 - [Second Victim Support - secondvictim.co.uk](https://secondvictim.co.uk/for-second-victims/)
 - [Segundas Víctimas - Fundación Calidad y Colaboración Hospitalaria](https://www.fcchi.org.ar/segundas-victimas/)
