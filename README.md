@@ -1,7 +1,6 @@
 # Challenge-IA-Generativa
 # Segundas Víctimas: Un Enfoque Integral
 
-![Segundas Víctimas](https://example.com/imagen-principal.jpg)
 
 ## ¿Qué son las segundas víctimas?
 
@@ -12,6 +11,7 @@ Las segundas víctimas se refieren a los profesionales de la salud que sufren co
 ## Importancia del Apoyo
 
 Es esencial ofrecer apoyo emocional y profesional a estas personas para prevenir el deterioro de su bienestar y promover un entorno de trabajo saludable.
+![Tristeza](https://images.unsplash.com/photo-1609743522471-83c84ce23e32?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
 
 ### Estrategias de Apoyo
 
@@ -43,7 +43,6 @@ Es esencial ofrecer apoyo emocional y profesional a estas personas para prevenir
 
 Las segundas víctimas merecen atención y cuidado. Implementar estrategias de apoyo no solo beneficia a los profesionales, sino también a la calidad de la atención al paciente.
 
-![Imagen de apoyo](https://example.com/imagen-de-apoyo.jpg)
 
 ---
 
@@ -86,10 +85,7 @@ El AHRQ Patient Safety Network (EE.UU.) ofrece estrategias comprobadas para apoy
 
 ![Cirugía](https://images.unsplash.com/photo-1551601651-2a8555f1a136?q=80&w=1447&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
 
----
-
-## Conclusiones: Un Compromiso Institucional
 
 Es fundamental que las instituciones de salud adopten políticas y programas que reconozcan y apoyen a las segundas víctimas. Al proporcionar recursos educativos, capacitaciones específicas y un entorno de trabajo que priorice el bienestar emocional, las organizaciones no solo protegen a su personal, sino que también mejoran la seguridad del paciente y fortalecen la calidad de la atención. El compromiso con el apoyo a las segundas víctimas refleja un liderazgo comprometido con la salud integral de sus equipos y con la excelencia en el cuidado que ofrecen.
 
-![Tristeza](https://images.unsplash.com/photo-1609743522471-83c84ce23e32?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
+
