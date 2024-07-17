@@ -1,0 +1,17 @@
+Discutí con Chat GPT 3.5 sobre la creación de contenido para una página web enfocada en segundas víctimas en el ámbito de la salud. Comenzamos analizando diferentes recursos y páginas web, buscando inspiración en cómo abordar este tema de manera efectiva y comprensiva:
+
+- [Second Victim Support - secondvictim.co.uk](https://secondvictim.co.uk/for-second-victims/)
+- [Segundas Víctimas - Fundación Calidad y Colaboración Hospitalaria](https://www.fcchi.org.ar/segundas-victimas/)
+- [Second Victims: Support for Clinicians Involved in Errors and Adverse Events - psnet.ahrq.gov](https://psnet.ahrq.gov/primer/second-victims-support-clinicians-involved-errors-and-adverse-events)
+
+Exploramos las características y el estilo del contenido en páginas como la de Stripe, reconociendo la importancia de su diseño limpio y estructura organizada. A partir de ahí, generamos una lista de temas específicos que podrían ser relevantes y atractivos para el público objetivo: profesionales de salud que necesitan apoyo después de enfrentar eventos adversos. Para este punto utilicé prompts cada vez más específicos que me ayudaron a refinar los resultados:
+
+- "Genera una lista de diez temas relacionados con las segundas víctimas que sean de interés para el personal de salud que busca apoyo ante el resultado catastrófico de un evento adverso."
+- "Imagina que eres un experto en calidad hospitalaria que está creando un blog referente a segundas víctimas dirigido a personal de salud de todas las categorías como médicos especialistas y también camilleros o personal de almacén. Genera un resumen de las siguientes páginas con muy poco lenguaje técnico y con énfasis en la importancia del apoyo de las instituciones con sus colaboradores."
+- "Imagina que eres el creador de contenido de una página dirigida al personal de salud. Crea artículos sobre los artículos de los que hiciste el resumen y redáctalos en forma de publicación."
+- "Dame una lista de las 10 páginas web más modernas y vistosas con sus urls."
+- "Analiza el contenido de la página stripe.com y dame una lista de temas para contenido con el mismo estilo para el contenido de la página web para segundas víctimas."
+
+Los prompts fueron utilizados estratégicamente para obtener resúmenes, recomendaciones de contenido y análisis de páginas web, lo que permitió mantener la calidad y relevancia del contenido generado.
+
+La coherencia entre los diferentes temas tratados, desde la creación de contenido para un blog específico hasta el análisis detallado de páginas web y la generación de narrativas persuasivas, refleja cómo ChatGPT puede ser una herramienta valiosa para explorar ideas y desarrollar contenido cohesivo y de alta calidad. Esta experiencia subraya cómo la inteligencia artificial puede ser aplicada de manera efectiva en la creación de contenido, adaptándose a diversas necesidades y audiencias con precisión y claridad.
