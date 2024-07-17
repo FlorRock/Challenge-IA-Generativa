@@ -39,17 +39,6 @@ Es esencial ofrecer apoyo emocional y profesional a estas personas para prevenir
 
 ---
 
-## Conclusión
-
-Las segundas víctimas merecen atención y cuidado. Implementar estrategias de apoyo no solo beneficia a los profesionales, sino también a la calidad de la atención al paciente.
-
-
----
-
-### Contáctanos
-
-Para más información, por favor envíanos un correo a: [contacto@example.com](mailto:contacto@example.com)
-
 
 # Apoyo a las Segundas Víctimas en el Ámbito Sanitario
 
@@ -57,11 +46,6 @@ Para más información, por favor envíanos un correo a: [contacto@example.com](
 
 El concepto de "segundas víctimas" se refiere a los profesionales de la salud que experimentan una carga emocional significativa después de estar involucrados en errores médicos, eventos adversos o situaciones críticas durante la atención de pacientes. Estos profesionales, además de los pacientes y familiares afectados directamente, pueden sufrir estrés, culpa, ansiedad y otros efectos psicológicos debido a la experiencia traumática vivida en el entorno sanitario. La atención a las segundas víctimas busca proporcionar apoyo emocional, recursos y herramientas para ayudarles a procesar y superar estos eventos, promoviendo así la recuperación profesional y personal.
 
----
-
-## Introducción
-
-En el complejo entorno de la atención sanitaria, los profesionales de la salud enfrentan desafíos emocionales significativos cuando ocurren errores o eventos adversos. El apoyo institucional juega un papel crucial en mitigar estos efectos y fomentar la recuperación profesional y emocional de las segundas víctimas.
 
 ---
 
@@ -87,5 +71,10 @@ El AHRQ Patient Safety Network (EE.UU.) ofrece estrategias comprobadas para apoy
 
 
 Es fundamental que las instituciones de salud adopten políticas y programas que reconozcan y apoyen a las segundas víctimas. Al proporcionar recursos educativos, capacitaciones específicas y un entorno de trabajo que priorice el bienestar emocional, las organizaciones no solo protegen a su personal, sino que también mejoran la seguridad del paciente y fortalecen la calidad de la atención. El compromiso con el apoyo a las segundas víctimas refleja un liderazgo comprometido con la salud integral de sus equipos y con la excelencia en el cuidado que ofrecen.
+
+
+### Contáctanos
+
+Para más información, por favor envíanos un correo a: [contacto@example.com](mailto:contacto@example.com)
 
 
